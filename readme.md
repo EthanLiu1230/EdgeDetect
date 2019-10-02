@@ -12,10 +12,10 @@ The project is built with OpenCV and Qt GUI.
 
 <img src="https://github.com/YuxLiu/EdgeDetect/blob/master/assets/origin1.png" alt="origin1" style="zoom:67%;" />
 
-The edges detected is hight lighted in green with red dots representing corners. 
+The edges detected will be hight lighted in green with red dots representing corners. 
 
-The inner circle is hight lighted in blue.
+The inner circles will be hight lighted in blue.
 
 <img src="https://github.com/YuxLiu/EdgeDetect/blob/master/assets/dxf1.png" alt="dxf1" style="zoom: 67%;" />
 
-This is a sample of  exported CAD(.dxf) file.
+This is a sample of exported CAD(.dxf) file.
