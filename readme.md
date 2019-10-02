@@ -6,13 +6,7 @@ The project is built with OpenCV and Qt GUI.
 
 ## Program Interface
 
-http://github.com/yourname/your-repository/raw/master/images-folder/xxx.png
-
-```
-https://github.com/YuxLiu/EdgeDetect.git
-```
-
-<img src="https://github.com/YuxLiu/EdgeDetect/assets/软件操作.PNG" alt="软件操作" style="zoom:50%;" />
+<img src="https://github.com/YuxLiu/EdgeDetect/blob/master/assets/软件操作.PNG" alt="软件操作" style="zoom:50%;" />
 
 ## Result Sample
 
