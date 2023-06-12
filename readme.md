@@ -5,16 +5,19 @@ The project is built with OpenCV and Qt GUI.
 
 ## Program Interface
 
-<img src="https://github.com/YuxLiu/EdgeDetect/blob/master/assets/软件操作.PNG" alt="软件操作" style="zoom:30%;" />
+![edge detection](https://github.com/EthanLiu1230/EdgeDetect/assets/26967250/5ef525e9-7928-48b6-bc5a-0148c5422d9d)
 
-## Result Sample
+## CAD file Sample
 
-<img src="https://github.com/YuxLiu/EdgeDetect/blob/master/assets/origin1.png" alt="origin1" style="zoom:67%;" />
+![dxf1](https://github.com/EthanLiu1230/EdgeDetect/assets/26967250/cbbfe156-f3d1-436b-90b9-41a16501c5a3)
 
 The edges detected will be hight lighted in green with red dots representing corners. 
 
 The inner circles will be hight lighted in blue.
 
-<img src="https://github.com/YuxLiu/EdgeDetect/blob/master/assets/dxf1.png" alt="dxf1" style="zoom: 67%;" />
+
+![origin1](https://github.com/EthanLiu1230/EdgeDetect/assets/26967250/a477d251-bc04-4979-9e29-752c0a021198)
+
+
 
 This is a sample of exported CAD(.dxf) file.
